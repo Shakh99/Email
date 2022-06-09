@@ -1,0 +1,221 @@
+<mjml>
+<mj-head>
+ <mj-attributes>
+  <mj-class name="title" display="flex" color="red"/>
+ </mj-attributes>
+<mj-style>
+ .body {
+     padding: 0;
+ }
+</mj-style>
+
+
+
+</mj-head>
+  <mj-body css-class='body' width="600px" padding="0"  background-color = "#F1F1F1">
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image 
+            width="147px" 
+            height="40px"  
+            src="https://res.cloudinary.com/dhzdcsbbh/image/upload/v1654719600/logo_lmlppb.png"
+            padding="40px 0px"
+        />
+      </mj-column>
+    </mj-section  padding="0">
+    <mj-wrapper css-class='edge' >
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image 
+            width="600px" 
+            height="340px"  
+            src="https://res.cloudinary.com/dhzdcsbbh/image/upload/v1654719601/cadr_mwebvh.jpg"
+            border-radius="10px 10px 0px 0px"
+            padding="0"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section 
+        background-color="#fff" 
+        padding="0 40px 50px 40px"
+        border-radius="0px 0px 10px 10px"
+    >
+      <mj-column padding="0">
+       <mj-text
+        align="center"
+        padding="50px 0px 20px"
+        font-size="28px"
+        font-weight="700"
+       >
+            Хочется чего-то особенного этим знойным летом?
+       </mj-text>
+       <mj-text
+            align="center"
+            font-size="20px"
+            font-weight="400"
+            padding="0px 0px 40px 0px"
+       >
+            Есть над чем задуматься: явные признаки победы институционализации разоблачены.Банальные, но неопровержимые выводы
+       </mj-text>
+       <mj-button
+            href="https://google.com/"
+            width="260px"
+            height="50px"
+            font-size="16px"
+            font-weight="700"
+            background-color="#DB202C"
+            border-radius="25px"
+       >
+            Оо-о-кей, летсгоу
+       </mj-button>
+      </mj-column>
+    </mj-section >
+    </mj-wrapper>
+
+
+    <mj-wrapper padding="40px 0px 0px 0px">
+    <mj-section
+        background-color="#fff" 
+        padding="0px 40px 50px 40px"
+        border-radius="10px"
+        mj-class="title"
+    >
+       <mj-column padding="0" width="520px">
+       <mj-text
+        align="center"
+        padding="50px 0px 40px"
+        font-size="28px"
+        font-weight="700"
+        line-height="32px"
+       >
+            Подборка для вас
+       </mj-text>
+        </mj-column>
+       <mj-column padding="0"  width="50%">
+       <mj-image 
+            width="250px" 
+            height="370px"  
+            src="https://res.cloudinary.com/dhzdcsbbh/image/upload/v1654719601/rapture_nghzcu.jpg"
+            border-radius="10px 10px 0px 0px"
+            padding="0"
+        />
+
+          <mj-text
+            align="center"
+            padding="50px 0px 20px"
+            font-size="16px"
+            font-weight="700"
+            line-height="20px"
+       >
+            Репсодия
+       </mj-text>
+       <mj-text
+            align="center"
+            font-size="16px"
+            font-weight="400"
+            line-height="20px"
+            padding="0px 0px 40px 0px"
+       >
+           Предварительные выводы неутешительны
+       </mj-text>
+       <mj-button
+            href="https://google.com/"
+            width="250px"
+            height="50px"
+            font-size="16px"
+            font-weight="700"
+            background-color="#DB202C"
+            border-radius="25px"
+             line-height="16px"
+       >
+            Смотреть
+       </mj-button>
+       </mj-column>
+        <mj-column padding="0" width="50%">
+       <mj-image 
+            width="250px" 
+            height="370px"  
+            src="https://res.cloudinary.com/dhzdcsbbh/image/upload/v1654719604/yesterday_iiahm6.jpg"
+            border-radius="10px 10px 0px 0px"
+            padding="0"
+        />
+
+         <mj-text
+            align="center"
+            padding="50px 0px 20px"
+            font-size="16px"
+            font-weight="700"
+            line-height="20px"
+       >
+            Противоположная точка
+       </mj-text>
+       <mj-text
+            align="center"
+            font-size="16px"
+            font-weight="400"
+            line-height="20px"
+            padding="0px 0px 40px 0px"
+       >
+           Не следует, однако, забывать, что высокое качество
+       </mj-text>
+       <mj-button
+            href="https://google.com/"
+            width="250px"
+            height="50px"
+            font-size="16px"
+            font-weight="700"
+            background-color="#DB202C"
+            border-radius="25px"
+            line-height="16px"
+       >
+            Смотреть
+       </mj-button>
+       </mj-column>
+    </mj-section>
+    </mj-wrapper>
+    <mj-section padding="58px 0px 27px">
+        <mj-column padding="0">
+            <mj-social font-size="13px" mode="horizontal">
+          <mj-social-element 
+            src="https://res.cloudinary.com/dhzdcsbbh/image/upload/v1654719600/vk_xuipey.png" 
+            href="https://mjml.io/"
+            icon-size="20px"
+          >
+          </mj-social-element>
+          <mj-social-element  icon-size="19px" src="https://res.cloudinary.com/dhzdcsbbh/image/upload/v1654719600/telegram_uvap1w.png" href="https://mjml.io/">
+           
+          </mj-social-element>
+          <mj-social-element icon-size="19px"   src="https://res.cloudinary.com/dhzdcsbbh/image/upload/v1654719600/twitter_tcb3i4.png" href="https://mjml.io/">
+        
+          </mj-social-element>
+        </mj-social>
+        </mj-column>
+    </mj-section>
+     <mj-section padding="0">
+        <mj-column padding="0 20px">
+          <mj-text 
+            align="center"
+            color="#999999"
+             font-size="14px"
+            font-weight="400"
+            line-height="20px"
+            >
+          Разнообразный и богатый опыт говорит нам, что внедрение современных методик требует анализа глубокомысленных рассуждений. В своём стремлении повысить качество жизни, они забывают
+          </mj-text>
+         
+          <mj-button background-color='transparent'color="#999999"  href="https://mjml.io/">Отписаться от рассылки </mj-button>
+     
+           <mj-text 
+            align="center"
+            color="#999999"
+             font-size="14px"
+            font-weight="400"
+            line-height="20px"
+            padding="41px 0 60px"
+            >
+          © 2022, Netflix CO
+          </mj-text>
+        </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
